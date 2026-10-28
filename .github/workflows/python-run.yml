@@ -1,7 +1,7 @@
 name: Run Sample Python Code
 
 on:
-  push:
+  # push:
   workflow_dispatch:
 
 jobs:
